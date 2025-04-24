@@ -1,0 +1,20 @@
+## Interface: 11507, 40402, 110105
+## Title: Masque: |cff00ffffSvelte|r
+## Version: 11.1.5
+## Notes: Svelte Button Skin
+## Author: Ferous
+## Updated by: Skullcan
+## X-Email: ferous.wow@gmail.com
+## X-Website: ferous.wowinterface.com
+## X-Credits: StormFX, Caith, Sovereignty
+## Dependencies: Masque
+## IconTexture: Interface\AddOns\Masque_Svelte\Textures\Icon
+## Notes: Svelte skins for Masque.
+## X-Category: Interface Enhancements
+
+# Locales
+Locales.lua
+
+# Skins
+Skins.lua
+
