@@ -11,6 +11,10 @@
 ## IconTexture: Interface\AddOns\Masque_Svelte\Textures\Icon
 ## Notes: Svelte skins for Masque.
 ## X-Category: Interface Enhancements
+## X-Website: https://github.com/Skullcan/Masque_Svelte
+
+## X-Curse-Project-ID: 1250786
+## X-Wago-ID: aN0Yy56j
 
 # Locales
 Locales.lua
