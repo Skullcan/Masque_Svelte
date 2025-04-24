@@ -193,7 +193,7 @@ MSQ:AddSkin("Svelte", {
 		Point = "TOPRIGHT",
 		RelPoint = "TOPRIGHT",
 		OffsetX = -2,
-		OffsetY = 10,
+		OffsetY = -2,
 	},
 	Count = {
 		JustifyH = "RIGHT",
@@ -205,7 +205,7 @@ MSQ:AddSkin("Svelte", {
 		Point = "BOTTOMRIGHT",
 		RelPoint = "BOTTOMRIGHT",
 		OffsetX = -2,
-		OffsetY = -10,
+		OffsetY = 0,
 	},
 	Duration = {
 		JustifyH = "CENTER",
@@ -245,7 +245,7 @@ MSQ:AddSkin("Svelte", {
 		Point = "BOTTOM",
 		RelPoint = "BOTTOM",
 		OffsetX = 0,
-		OffsetY = -10,
+		OffsetY = 0,
 	},
 	Border = {
 		Texture = [[Interface\AddOns\Masque_Svelte\Textures\Border]],
@@ -683,7 +683,7 @@ MSQ:AddSkin("Svelte Shadow", {
 		Point = "TOPRIGHT",
 		RelPoint = "TOPRIGHT",
 		OffsetX = -2,
-		OffsetY = 10,
+		OffsetY = -2,
 	},
 	Count = {
 		JustifyH = "RIGHT",
@@ -695,7 +695,7 @@ MSQ:AddSkin("Svelte Shadow", {
 		Point = "BOTTOMRIGHT",
 		RelPoint = "BOTTOMRIGHT",
 		OffsetX = -2,
-		OffsetY = -10,
+		OffsetY = 0,
 	},
 	Duration = {
 		JustifyH = "CENTER",
@@ -735,7 +735,7 @@ MSQ:AddSkin("Svelte Shadow", {
 		Point = "BOTTOM",
 		RelPoint = "BOTTOM",
 		OffsetX = 0,
-		OffsetY = -10,
+		OffsetY = 0,
 	},
 	Border = {
 		Texture = [[Interface\AddOns\Masque_Svelte\Textures\Border]],
@@ -1173,7 +1173,7 @@ MSQ:AddSkin("Square", {
 		Point = "TOPRIGHT",
 		RelPoint = "TOPRIGHT",
 		OffsetX = -2,
-		OffsetY = 10,
+		OffsetY = -2,
 	},
 	Count = {
 		JustifyH = "RIGHT",
@@ -1185,7 +1185,7 @@ MSQ:AddSkin("Square", {
 		Point = "BOTTOMRIGHT",
 		RelPoint = "BOTTOMRIGHT",
 		OffsetX = -2,
-		OffsetY = -10,
+		OffsetY = 0,
 	},
 	Duration = {
 		JustifyH = "CENTER",
@@ -1225,7 +1225,7 @@ MSQ:AddSkin("Square", {
 		Point = "BOTTOM",
 		RelPoint = "BOTTOM",
 		OffsetX = 0,
-		OffsetY = -10,
+		OffsetY = 0,
 	},
 	Border = {
 		Texture = [[Interface\AddOns\Masque_Svelte\Textures\Border]],
@@ -1663,7 +1663,7 @@ MSQ:AddSkin("Square Shadow", {
 		Point = "TOPRIGHT",
 		RelPoint = "TOPRIGHT",
 		OffsetX = -2,
-		OffsetY = 10,
+		OffsetY = -2,
 	},
 	Count = {
 		JustifyH = "RIGHT",
@@ -1675,7 +1675,7 @@ MSQ:AddSkin("Square Shadow", {
 		Point = "BOTTOMRIGHT",
 		RelPoint = "BOTTOMRIGHT",
 		OffsetX = -2,
-		OffsetY = -10,
+		OffsetY = 0,
 	},
 	Duration = {
 		JustifyH = "CENTER",
@@ -1715,7 +1715,7 @@ MSQ:AddSkin("Square Shadow", {
 		Point = "BOTTOM",
 		RelPoint = "BOTTOM",
 		OffsetX = 0,
-		OffsetY = -10,
+		OffsetY = 0,
 	},
 	Border = {
 		Texture = [[Interface\AddOns\Masque_Svelte\Textures\Border]],
