@@ -1,5 +1,9 @@
 <a name="Top"></a>
+[![Build][SVG-Build]][Build]
+[![Masque][SVG-Masque]][Masque]
+
 ## Disclaimer
+
 **I'm not the author of this skin. I'm only updating it to use the modern API of Masque.**
 
 **All credits goes to the original author: Ferous @ ferous.wow@gmail.com**
@@ -39,15 +43,10 @@ To help translate this add-on, use the [localization system]. Alternatively, you
 
 - **Resources**
   - [Masque][Masque]
-    
-[//]: # (Links)
 
-[Top]: #Top (Top of the Page)
-
-[Masque]: https://github.com/SFX-WoW/Masque (Download Masque)
-
-[Issue Tracker]: https://github.com/Skullcan/Masque_Svelte/issues (Report an Issue)
-
-[GitHub]: https://github.com/Skullcan/Masque_Svelte (View on GitHub)
-
-[//]: # (Images)
+[//]: # "Links"
+[Top]: #Top "Top of the Page"
+[Masque]: https://github.com/SFX-WoW/Masque "Download Masque"
+[Issue Tracker]: https://github.com/Skullcan/Masque_Svelte/issues "Report an Issue"
+[GitHub]: https://github.com/Skullcan/Masque_Svelte "View on GitHub"
+[//]: # "Images"
