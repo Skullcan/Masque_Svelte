@@ -1,5 +1,5 @@
 <a name="Top"></a>
-[![Build Release](https://github.com/Skullcan/Masque_Svelte/actions/workflows/build-release.yml/badge.svg?branch=main)](https://github.com/Skullcan/Masque_Svelte/actions/workflows/build-release.yml)
+[![Build Release](https://github.com/Skullcan/Masque_Svelte/actions/workflows/build-release.yml/badge.svg)](https://github.com/Skullcan/Masque_Svelte/actions/workflows/build-release.yml)
 
 ## Disclaimer
 
