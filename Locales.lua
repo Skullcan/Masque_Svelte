@@ -5,6 +5,7 @@
 
 	* File...: Locales.lua
 	* Author.: StormFX
+	* Updated: Skullcan
 
 ]]
 
