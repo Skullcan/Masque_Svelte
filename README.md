@@ -39,7 +39,7 @@ To help translate this add-on, use the [localization system]. Alternatively, you
 
 - **Resources**
   - [Masque][Masque]
-  - 
+    
 [//]: # (Links)
 
 [Top]: #Top (Top of the Page)
