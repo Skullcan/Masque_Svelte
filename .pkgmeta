@@ -1,4 +1,4 @@
-package-as: Masque_Onyx
+package-as: Masque_Svelte
 
 required-dependencies:
   - masque
