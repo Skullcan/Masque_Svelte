@@ -4,5 +4,6 @@
 
 - Updated the `Interface` version for **The War Within** to `110105`.
 - Fixed the position of the Keybinds/Name/Count texts.
+- Fixed the size of the cooldown overlay texture.
 
 [Release History](https://github.com/Skullcan/Masque_Svelte/wiki/History)
