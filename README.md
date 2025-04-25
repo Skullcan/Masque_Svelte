@@ -7,6 +7,8 @@
 
 **All credits goes to the original author: Ferous @ ferous.wow@gmail.com**
 
+All the previews in gallery are taken using the 'Clean Icons - Mechagnome Edition' By AcidWeb found here: https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition
+
 ## [About][Top]
 
 **Masque: Svelte** is an add-on for [World of Warcraft](https://worldofwarcraft.com "World of Warcraft") that adds a set of skins for [Masque].
