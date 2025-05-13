@@ -1,4 +1,4 @@
-## Interface: 11507, 40402, 110105
+## Interface: 11507, 40402, 110107
 ## Title: Masque: |cff00ffffSvelte|r
 ## Version: 11.1.5
 ## Notes: Svelte Button Skin
