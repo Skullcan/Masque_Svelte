@@ -1,6 +1,6 @@
 ## Interface: 11507, 40402, 110107
 ## Title: Masque: |cff00ffffSvelte|r
-## Version: 11.1.5
+## Version: 11.1.7
 ## Notes: Svelte Button Skin
 ## Author: Ferous
 ## Updated by: Skullcan
